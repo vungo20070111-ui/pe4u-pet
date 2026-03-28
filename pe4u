@@ -1,0 +1,101 @@
+<div style="font-family:Arial; line-height:1.6">
+
+<!-- HERO -->
+<section style="background:#0f9f4b; color:white; text-align:center; padding:50px">
+  <h1 style="font-size:32px; font-weight:bold">
+    SỮA TẮM THÚ CƯNG PE4U
+  </h1>
+  <p>Khử mùi – sạch ve rận – dưỡng lông mềm mượt</p>
+</section>
+
+<!-- HERO IMAGE -->
+<img src="https://images.unsplash.com/photo-1601758123927-196f8d6d7c6b?q=80&w=1200" style="width:100%">
+
+<!-- HOOK -->
+<section style="text-align:center; padding:40px">
+  <h2 style="color:#0f9f4b">🔥 TẮM 1 LẦN – THƠM 3–5 NGÀY</h2>
+  <p>Boss sạch sâu – giảm ngứa – lông mượt rõ rệt</p>
+</section>
+
+<!-- PROBLEM -->
+<section style="background:#f3f4f6; padding:30px">
+  <h2>❌ THÚ CƯNG CỦA BẠN ĐANG:</h2>
+  <ul>
+    <li>Ngứa, gãi liên tục</li>
+    <li>Có mùi hôi khó chịu</li>
+    <li>Lông xơ rối, rụng nhiều</li>
+    <li>Ve rận gây khó chịu</li>
+  </ul>
+</section>
+
+<!-- PET PROBLEM IMAGE -->
+<section style="text-align:center">
+  <img src="https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?q=80&w=800" style="width:80%">
+</section>
+
+<!-- SOLUTION -->
+<section style="background:#e8f8f0; padding:30px">
+  <h2 style="color:#0f9f4b">💥 GIẢI PHÁP TỪ PE4U</h2>
+  <p>
+    Công thức thiên nhiên giúp làm sạch sâu, khử mùi và hỗ trợ giảm ve rận hiệu quả.
+  </p>
+</section>
+
+<!-- PRODUCT STYLE IMAGE -->
+<section style="text-align:center; padding:20px">
+  <img src="https://images.unsplash.com/photo-1623387641168-d9803ddd3f35?q=80&w=400" style="border-radius:20px">
+</section>
+
+<!-- INGREDIENT -->
+<section style="padding:30px">
+  <h2>🌿 THÀNH PHẦN</h2>
+  <ul>
+    <li>Tràm trà – kháng khuẩn</li>
+    <li>Bạc hà – giảm ngứa</li>
+    <li>Bạch đàn chanh – xua ve rận</li>
+    <li>Vitamin B5 – dưỡng lông</li>
+  </ul>
+</section>
+
+<!-- BENEFIT -->
+<section style="background:#f3f4f6; padding:30px">
+  <h2>🔥 LỢI ÍCH</h2>
+  <ul>
+    <li>✔️ Sạch ve rận</li>
+    <li>✔️ Giảm ngứa nhanh</li>
+    <li>✔️ Thơm lâu</li>
+    <li>✔️ Lông mềm mượt</li>
+  </ul>
+</section>
+
+<!-- HAPPY PET IMAGE -->
+<section style="text-align:center">
+  <img src="https://images.unsplash.com/photo-1598133894008-61f7fdb8cc3a?q=80&w=800" style="width:80%">
+</section>
+
+<!-- PRICE -->
+<section style="text-align:center; padding:40px">
+  <h2>💸 ƯU ĐÃI</h2>
+  <p style="font-size:24px; color:red"><b>199.000đ</b></p>
+  <p><del>349.000đ</del></p>
+</section>
+
+<!-- FORM -->
+<section style="background:#0f9f4b; color:white; padding:40px; text-align:center">
+  <h2>📞 ĐẶT HÀNG NGAY</h2>
+  <input placeholder="Họ và tên" style="padding:10px; width:80%; margin:5px"><br>
+  <input placeholder="SĐT" style="padding:10px; width:80%; margin:5px"><br>
+  <input placeholder="Địa chỉ" style="padding:10px; width:80%; margin:5px"><br>
+
+  <button style="background:white; color:#0f9f4b; padding:15px 30px; border:none; border-radius:8px; margin-top:10px">
+    ĐẶT HÀNG
+  </button>
+</section>
+
+<!-- FOOTER -->
+<section style="text-align:center; padding:20px; color:#777">
+  <p>PE4U PET</p>
+  <p>Hotline: 0369790910</p>
+</section>
+
+</div>
